@@ -1,5 +1,5 @@
 {
-  "name": "HEE117 Study Hub",
+  "name": "olamhee117quiz",
   "description": "An interactive exam preparation simulator designed precisely around the second-semester HEE117 university syllabus, supporting progress tracking, incorrect answer review banks, and custom themes.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
